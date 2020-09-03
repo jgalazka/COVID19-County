@@ -1,4 +1,4 @@
-# COVID-19 data from LA County
+# COVID-19 data from Santa Clara County
 Add text here
 
 
